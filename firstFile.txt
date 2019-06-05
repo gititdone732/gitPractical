@@ -4,3 +4,4 @@ new line added locally
 new line remotely added
 locally updated
 again updated remote
+merge automatically without conflicts
